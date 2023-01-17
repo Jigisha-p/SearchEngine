@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+python-constraint
+Pyaudio
+gTTs
